@@ -1,6 +1,6 @@
 cask "thoughts" do
   version "1.5"
-  sha256 "e8272aaf8ef97169663bc0c22bd22cb329ff7abfa919d270a2fc36b42b813890"
+  sha256 "7f43e8d6376bd838f5a133e65a2090fe9f4ecff54de0803db3a5eeef2701455f"
 
   url "https://github.com/alxxeu/Thoughts/releases/download/v#{version}/Thoughts-#{version}.dmg"
   name "Thoughts"
